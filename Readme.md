@@ -55,6 +55,7 @@ Resources that help with deploying on Heroku...
 - `question` [How do you ignore files when deploying to Heroku?](http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app) — the answer to a common question about `.gitignore` like functionality.
 - `article` [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) — improvements for how you run your Heroku processes.
 - `article` [Deploying Django to Heroku With Docker](https://testdriven.io/blog/deploying-django-to-heroku-with-docker/) — looks at how to deploy a Django app to Heroku with Docker via the Heroku Container Runtime
+- `article` [Deploying a Flask App on Heroku Using Docker](https://dev.to/ejach/how-to-deploy-a-python-flask-app-on-heroku-using-docker-mpc) - explains how to deploy a Python Flask application to Heroku using the Docker Container Registry
 
 
 ## <img width="21" height="21" src="images/development.png" /> Development
