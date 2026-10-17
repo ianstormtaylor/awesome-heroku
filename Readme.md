@@ -27,7 +27,7 @@ A curated list of helpful Heroku resources.
 
 Analytics for Heroku...
 
-- `tool` [Metabase](http://www.metabase.com/docs/v0.13.3/operations-guide/running-metabase-on-heroku.html) — a beta of Metadata as an app that can be deployed directly to Heroku.
+- `tool` [Metabase](https://github.com/metabase/metabase/blob/v0.13.3/docs/operations-guide/running-metabase-on-heroku.md) — a beta of Metadata as an app that can be deployed directly to Heroku.
 
 
 ## <img width="21" height="21" src="images/architecture.png" /> Architecture
